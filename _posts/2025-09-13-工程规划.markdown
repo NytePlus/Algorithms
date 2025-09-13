@@ -1,7 +1,7 @@
 ---
 ---
 
-工程规划：https://www.luogu.com.cn/problem/P1260
+工程规划：[https://www.luogu.com.cn/problem/P1260](https://www.luogu.com.cn/problem/P1260)
 
 ## 思考
 
