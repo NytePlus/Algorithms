@@ -1,19 +1,19 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+title: Nyte's Algorithms
+url: "https://nyteplus.github.io"
+baseurl: "/Algorithms"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    Nyte <span class="faded">'s algorithms</span>
 
-email: your@email.com
-author: yourname
+email: nyte_plus@sjtu.edu.com
+author: Nyte
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    This is Nyte's problem-solving insights website, updated daily.
 
 # This will what will show against &copy; in the footer
 copyright: accent
@@ -39,13 +39,13 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    Nyte is working on luogu.
 
 about_footer: true
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+twitter_username: None
+github_username: NytePlus
+facebook_id: None
 
 favicon: true
 favicon_location: "images/favicon.ico"
